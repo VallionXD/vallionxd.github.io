@@ -1,5 +1,10 @@
-# VallionXD | Homepage
-Homepage for my website, used to host my HTML website pages.
+<h1 align="center">My Portfolio | Landing Page</h1>
+
+[![image](https://github.com/VallionXD/Portfolio/assets/151787330/608933fa-5f84-455b-b2f7-7067d8685b15)](https://vallionxd.github.io/Portfolio/)
+
+> The landing page to my github pages site.
 
 ## Pages
-No pages here yet, check back soon and there might be some.
+
++ **Portfolio**: https://vallionxd.github.io/Portfolio/
++ **Val's Rule**: https://vallionxd.github.io/Vals-Rule/
